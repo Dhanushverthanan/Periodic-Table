@@ -1,0 +1,101 @@
+table{
+    margin-left: 15%;
+    border-width: 1px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    width: auto;  
+}
+.head{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 350%;
+}
+body{
+    background-color: #e7e7e7;
+}  
+td{
+    width: 80px;
+    height: 35px;
+    margin: 10px;
+    border-style: solid;
+    border-color: rgb(255, 254, 254);
+    padding: 10px;
+     
+}
+.e{
+    border: none;
+
+}
+.Sc:hover, .Ti:hover, .V:hover, .Cr:hover, .Mn:hover, .Fe:hover, .Co:hover, .Ni:hover, .Cu:hover, .Zn:hover, 
+.Y:hover, .Zr:hover, .Nb:hover, .Mo:hover, .Tc:hover, .Ru:hover, .Rh:hover, .Pd:hover, .Ag:hover, .Cd:hover, 
+.Hf:hover, .Ta:hover, .W:hover, .Re:hover, .Os:hover, .Ir:hover, .Pt:hover, .Au:hover, .Hg:hover, 
+.Rf:hover, .Db:hover, .Sg:hover, .Bh:hover, .Hs:hover, .Mt:hover, .Ds:hover, .Rg:hover, .Cn:hover, 
+.Ac:hover, .Th:hover, .Pa:hover, .U:hover, .Np:hover, .Pu:hover, .Am:hover, .Cm:hover, .Bk:hover, .Cf:hover, 
+.Es:hover, .Fm:hover, .Md:hover, .No:hover, .Lr:hover, 
+.La:hover, .Ce:hover, .Pr:hover, .Nd:hover, .Pm:hover, .Sm:hover, .Eu:hover, .Gd:hover, .Tb:hover, .Dy:hover, 
+.Ho:hover, .Er:hover, .Tm:hover, .Yb:hover, .Lu:hover, 
+.F:hover, .Cl:hover, .Br:hover, .I:hover, .At:hover, .Ts:hover, 
+.B:hover, .Si:hover, .Ge:hover, .As:hover, .Sb:hover, .Te:hover, .Po:hover, 
+.Al:hover, .Ga:hover, .In:hover, .Tl:hover, .Pb:hover, .Sn:hover, .Bi:hover, .Fl:hover, .Mc:hover, .Lv:hover, .Nh:hover, 
+.Be:hover, .Mg:hover, .Ca:hover, .Sr:hover, .Ba:hover, .Ra:hover, 
+.Li:hover, .Na:hover, .K:hover, .Rb:hover, .Cs:hover, .Fr:hover, 
+.He:hover, .Ne:hover, .Ar:hover, .Kr:hover, .Xe:hover, .Rn:hover, .Og:hover, 
+.H:hover, .C:hover, .N:hover, .O:hover, .P:hover, .S:hover, .Se:hover {
+    background-color: #ff0000;
+    cursor: pointer;
+}
+
+
+h1{
+    font-size: 30px;
+    font-weight: bold;
+    color: #ffffff;
+    margin: 0;
+    padding-bottom:10px;
+    text-align: center;
+}
+small{
+    font-size: 15px;
+    color: #ffffff;
+    text-align: center;
+    display: block;
+}
+.t2 {
+     
+      margin-left: 22%;
+
+}
+.H,.C,.N,.O,.P,.S,.Se{
+    background-color: blueviolet;
+}
+.He,.Ne,.Ar,.Kr,.Xe,.Rn,.Og{
+    background-color: #d3de3f;
+}
+.Li,.Na,.K,.Rb,.Cs,.Fr{
+    background-color: #de1b38;
+}
+.Be,.Mg,.Ca,.Sr,.Ba,.Ra{
+    background-color: #6c4d0a;
+}
+.Al,.Ga,.In,.Tl,.Pb,.Sn,.Bi,.Fl,.Mc,.Lv,.Nh{
+    background-color: #ff5e00;
+}
+.B,.Si,.Ge,.As,.Sb,.Te,.Po{
+    background-color: #5bfd5d;
+}
+.F,.Cl,.Br,.I,.At,.Ts{
+    background-color: #f57878;
+}
+.La,.Ce,.Pr,.Nd,.Pm,.Sm,.Eu,.Gd,.Tb,.Dy,.Ho,.Er,.Tm,.Yb,.Lu{
+    background-color: #f0f;
+}
+.Ac,.Th,.Pa,.U,.Np,.Pu,.Am,.Cm,.Bk,.Cf,.Es,.Fm,.Md,.No,.Lr{
+    background-color: rgb(88, 168, 247);
+}
+.Sc,.Ti,.V,.Cr,.Mn,.Fe,.Co,.Ni,.Cu,.Zn,.Y,.Zr,.Nb,.Mo,.Tc,.Ru,.Rh,.Pd,.Ag,.Cd,.Hf,.Ta,.W,.Re,.Os,.Ir,.Pt,.Au,.Hg,.Rf,.Db,.Sg,.Bh,.Hs,.Mt,.Ds,.Rg,.Cn   {
+    background-color: #634aef;
+}
+sup{
+    color: #ffffff;
+}
